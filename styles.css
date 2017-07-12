@@ -1,0 +1,23 @@
+textarea
+{
+  min-height: 500px;
+  min-width: 500px;
+  margin:15px;
+}
+.down
+{
+  margin-top:50px;
+}
+body
+{
+  background-color: #cc99ff;
+}
+.btn
+{
+  font-family: "Permanent Marker";
+}
+h1
+{
+  font-weight: bold;
+  font-family: "Permanent Marker";
+}
